@@ -18,7 +18,7 @@ import json
 
 import google.generativeai as generativeai
 
-generativeai.configure(api_key="AIzaSyAzsqBT9wCN03wqE3T3FtbfI11Pe1W71H0")
+generativeai.configure(api_key="YOUR API KEY")
 
 model = generativeai.GenerativeModel("gemini-pro")
 
