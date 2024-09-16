@@ -30,7 +30,7 @@ while True:
 2. If you have a profile, enter 2 and fill in the required details. You need to enter your username, password, wait 5 seconds and then speak the security phrase you registered with for verification.
 """)
 
-    elif option == 4:
+    elif option == 5:
         print("\nTHANK YOU FOR TRUSTING US AND USING OUR PROGRAM.\n")
         break
 
